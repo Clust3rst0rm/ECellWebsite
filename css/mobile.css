@@ -21,6 +21,9 @@
 	#section-1 .roww .columnn h3, #section-1 .roww .columnn h1 {
 		width: 200%;
 	}
+	#section-1 .roww .columnn img{
+		width: 200%;
+	}
 
 }
 @media screen and (min-width: 768px) and (max-width: 992px){
