@@ -1,0 +1,52 @@
+@media screen and (max-width: 768px){
+	#nitlogo{
+		width: 4vh;
+		height: 4vh;
+		top: -5.4vh;
+	}
+	#subhead p{
+		font-size: 130%;
+		font-weight: 300;
+		padding: 80px;
+	}
+	#section-1{
+		height: 230vh;
+		font-size: 130%;
+	}
+	#section-1 .roww .columnn{
+		float: none;
+		padding: 10px;
+
+	}
+	#section-1 .roww .columnn h3, #section-1 .roww .columnn h1 {
+		width: 200%;
+	}
+
+}
+@media screen and (min-width: 768px) and (max-width: 992px){
+	#nitlogo{
+		width: 5vh;
+		height: 5vh;
+		top: -5.7vmax;
+	}
+	#subhead p{
+		font-size: 180%;
+		font-weight: 500;
+		padding: 80px;
+	}
+	#section-1{
+		height: 230vh;
+		font-size: 170%;
+	}
+	#section-1 .roww .columnn{
+		float: none;
+		padding: 20px;
+	}
+	#section-1 .roww .columnn h3, #section-1 .roww .columnn h1{
+		width: 200%;
+	}
+	#section-1 .roww .columnn img{
+		width: 150%;
+		left: 50px;
+	}
+}
