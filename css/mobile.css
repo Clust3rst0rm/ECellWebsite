@@ -10,7 +10,7 @@
 		padding: 80px;
 	}
 	#section-1{
-		height: 230vh;
+		height: 250vh;
 		font-size: 130%;
 	}
 	#section-1 .roww .columnn{
@@ -42,7 +42,8 @@
 		float: none;
 		padding: 20px;
 	}
-	#section-1 .roww .columnn h3, #section-1 .roww .columnn h1{
+	#section-1 .roww .columnn h3, #section-1 .roww .columnn h1,
+	#section-1 .roww .columnn img{
 		width: 200%;
 	}
 	#section-1 .roww .columnn img{
