@@ -45,7 +45,9 @@
 		float: none;
 		padding: 20px;
 	}
-	#section-1 .roww .columnn h3, #section-1 .roww .columnn h1,
+	#section-1 .roww .columnn h3, #section-1 .roww .columnn h1{
+		width: 200%;
+	}
 	#section-1 .roww .columnn img{
 		width: 200%;
 	}
