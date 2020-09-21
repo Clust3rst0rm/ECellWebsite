@@ -2,12 +2,12 @@
 	#nitlogo{
 		width: 4vh;
 		height: 4vh;
-		top: -3vh;
+		top: -2vh;
 	}
 	#subhead p{
 		font-size: 130%;
 		font-weight: 300;
-		padding: 80px;
+		padding: 20px;
 	}
 	#section-1{
 		height: 250vh;
